@@ -1,7 +1,7 @@
 # Electricity notification :electric_plug:
 
-Checks a local site for electricity shutdown notification and if a street in
-alert settings exists it will send an alert to a discord channel via a discord
+Checks a local site for electricity shutdown notification and if a street
+ in alert settings exists it will send an alert to a discord channel via discord
 webhook.
 
 # Usage
